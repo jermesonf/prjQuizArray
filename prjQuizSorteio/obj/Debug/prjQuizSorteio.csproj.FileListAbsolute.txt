@@ -1,0 +1,50 @@
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.pdb
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form1.resources
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.exe
+c:\users\lab\documents\visual studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.pdb
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form2.resources
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form3.resources
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form4.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe.config
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.pdb
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csprojAssemblyReference.cache
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form1.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form2.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form3.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form4.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form5.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form6.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Properties.Resources.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.GenerateResource.cache
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.CoreCompileInputs.cache
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.exe
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.pdb
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form10.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form7.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form8.resources
+C:\Users\Lab ETESP\Desktop\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form9.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe.config
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.exe
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\bin\Debug\prjQuizSorteio.pdb
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.AssemblyReference.cache
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form1.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form10.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form2.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form3.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form4.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form5.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form6.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form7.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form8.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Form9.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.Properties.Resources.resources
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.GenerateResource.cache
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.exe
+C:\Users\jemer\Desktop\Educação\ETEC\C#\prjQuizSorteio\prjQuizSorteio\obj\Debug\prjQuizSorteio.pdb

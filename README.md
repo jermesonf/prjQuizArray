@@ -1,4 +1,4 @@
-# Projeto Quiz
+# Projeto Quiz Array
 
 > Desenvolvido um aplicativo de quiz com dez formulários. Utilizado listas para armazenar perguntas e respostas,
 > o aplicativo sortea aleatoriamente entre os itens da lista para apresentar ao usuário.
